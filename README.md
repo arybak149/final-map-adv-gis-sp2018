@@ -1,2 +1,3 @@
-# final-map-adv-gis-sp2018
-Final map/project for Adv GIS course Sp 2018
+# carto-sidebar
+
+Adding data to a sidebar with a map made with Carto.js
